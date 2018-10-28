@@ -5,6 +5,7 @@
 [![codecov](https://codecov.io/gh/tvastar/hamming/branch/master/graph/badge.svg)](https://codecov.io/gh/tvastar/hamming)
 [![GoReportCard](https://goreportcard.com/badge/github.com/tvastar/hamming)](https://goreportcard.com/report/github.com/tvastar/hamming)
 
-Hamming computes the edits to convert one sequence to another
+Hamming computes the edits to convert one sequence to another.
+
 
 
